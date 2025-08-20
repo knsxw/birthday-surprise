@@ -144,7 +144,7 @@ export default function BirthdaySurprise() {
             <h1
               className={`text-6xl md:text-8xl font-serif font-black ${currentTheme.primary} mb-4 heart-pulse transition-colors duration-1000`}
             >
-              Happy Birthday,
+              Happy Birthday 🥳
             </h1>
             <h2
               className={`text-4xl md:text-6xl font-serif font-black ${currentTheme.secondary} mb-6 transition-colors duration-1000`}
@@ -166,19 +166,19 @@ export default function BirthdaySurprise() {
             </h3>
             <div className="flex justify-center items-center gap-6 flex-wrap">
               <HeartPhotoFrame
-                src="/beautiful-woman-smiling-portrait.png"
-                alt="My girlfriend's beautiful smile"
+                src="/pepperlunch.jpg"
+                alt="My girlfriend cute photo"
                 size="lg"
                 className="animate-bounce delay-100"
               />
               <HeartPhotoFrame
-                src="/candid-laughing-woman.png"
+                src="/art_workshop.jpg"
                 alt="Her infectious laugh"
                 size="md"
                 className="animate-bounce delay-300"
               />
               <HeartPhotoFrame
-                src="/happy-woman-outdoor.png"
+                src="/ananda.jpg"
                 alt="Happy moments together"
                 size="lg"
                 className="animate-bounce delay-500"
@@ -226,7 +226,7 @@ export default function BirthdaySurprise() {
                 <h3
                   className={`text-xl font-serif font-bold ${currentTheme.primary} mb-3 transition-colors duration-1000`}
                 >
-                  Why You're Special
+                  You're Special
                 </h3>
                 <p className="text-gray-600 leading-relaxed">
                   Your smile brightens my darkest days, your laugh is my
@@ -251,8 +251,8 @@ export default function BirthdaySurprise() {
                 </h3>
                 <p className="text-gray-600 leading-relaxed">
                   I wish for you to always know how deeply you are loved, how
-                  much joy you bring to everyone around you, and how grateful I
-                  am to share this beautiful life with you.
+                  much joy you bring to me, and how grateful I am to share this
+                  beautiful life with you.
                 </p>
               </div>
             </Card>
